@@ -1,4 +1,4 @@
 def cicdGit(repo)
 {
-  git ${repo}
+  git "${repo}"
 }
